@@ -60,7 +60,9 @@ while (True):
     if resp ==4: 
         fb.buscar_pasajero (matriz_datos_clientes)
     if resp == 5:
-        break                                  
+        break
+    if resp ==6:
+        print ("adios")                                  
 
 
                 
